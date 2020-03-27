@@ -24,7 +24,7 @@
         }
     ],
     "autoload": {
-        "psr-4": { "yii\\couchdb\\tests": "tests"}
+        "psr-4": { "yii\\couchdb\\tests\\": "tests"}
     }
 }
 
