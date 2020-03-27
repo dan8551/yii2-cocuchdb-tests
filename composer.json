@@ -1,5 +1,5 @@
 {
-    "name": "dan8551/yii2-couchdb",
+    "name": "dan8551/yii2-couchdb-tests",
     "description": "CouchDB extension for the Yii framework",
     "keywords": ["yii2", "couchdb", "active-record"],
     "type": "yii2-extension",
